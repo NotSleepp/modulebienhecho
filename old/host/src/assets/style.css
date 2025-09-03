@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Aquí puedes agregar tus estilos personalizados */
+@layer components {
+  /* Ejemplo de clase personalizada reutilizable */
+  .btn-primary {
+    @apply px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors;
+  }
+}
+
+@layer utilities {
+  /* Ejemplo de utilidad personalizada */
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+}
+
+/* Desactiva TODAS las transiciones de manera temporal cuando se añade la clase `no-transition` al <html> */
+.no-transition * {
+  transition: none !important;
+}
+
+/* Ajuste del tamaño base de fuente: más grande en móviles para mejor legibilidad */
+@layer base {
+  /* Tamaño base estándar para escritorio */
+  html {
+    font-size: 16px;
+  }
+
+  /* Aumentar ligeramente en móviles para mejorar legibilidad */
+  @media (max-width: 639px) {
+    html {
+      font-size: 17px; /* ≈6% más grande */
+    }
+  }
+}

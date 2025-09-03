@@ -1,170 +1,828 @@
-
-🏠 HOST: App.vue script setup iniciado
-index--UsoGjjy.js:1 🏠 HOST: Definiendo componentes asincrónicos...
-index--UsoGjjy.js:1 🏠 HOST: App.vue script setup completado
-index--UsoGjjy.js:1 🏠 HOST: onBeforeMount - Componente Host a punto de montarse
-index--UsoGjjy.js:1 🏠 HOST: Verificando estilos CSS en <head>...
-index--UsoGjjy.js:1 🏠 HOST: Stylesheets encontrados: 1
-index--UsoGjjy.js:1 🏠 HOST: Stylesheet 0: http://localhost:4173/assets/index-C6Akb8Pn.css <link rel=​"stylesheet" crossorigin href=​"/​assets/​index-C6Akb8Pn.css">​
-index--UsoGjjy.js:1 🔄 HOST: Iniciando carga de MFE-1...
-index--UsoGjjy.js:1 🔄 HOST: URL de MFE-1: mfe1/HelloWorld
-index--UsoGjjy.js:1 🔄 HOST: Iniciando carga de MFE-2...
-index--UsoGjjy.js:1 🔄 HOST: URL de MFE-2: mfe2/HelloWorld
-index--UsoGjjy.js:1 🏠 HOST: onMounted - Componente Host montado
-index--UsoGjjy.js:1 🏠 HOST: Estado MFE-1 cargado: false
-index--UsoGjjy.js:1 🏠 HOST: Estado MFE-2 cargado: false
-index--UsoGjjy.js:1 ✅ HOST: MFE-1 cargado exitosamente: Module {Symbol(Symbol.toStringTag): 'Module'}
-index--UsoGjjy.js:1 ✅ HOST: MFE-1 default export: {__name: 'HelloWorld', props: {…}, __cssModules: {…}, setup: ƒ}
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld component script setup iniciado
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld component script setup completado
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld onBeforeMount - Componente a punto de montarse
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld onMounted - Componente montado
-index--UsoGjjy.js:1 ✅ HOST: MFE-2 cargado exitosamente: Module {Symbol(Symbol.toStringTag): 'Module'}
-index--UsoGjjy.js:1 ✅ HOST: MFE-2 default export: {__name: 'HelloWorld', props: {…}, __cssModules: {…}, setup: ƒ}
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld component script setup iniciado
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld component script setup completado
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld onBeforeMount - Componente a punto de montarse
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld onMounted - Componente montado
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld verificando estilos después de 500ms...
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld contenedor principal encontrado
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld min-height: 0px
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld display: block
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld padding: 0px
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld botón encontrado
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld botón background-color: rgba(0, 0, 0, 0)
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld botón color: rgba(255, 255, 255, 0.87)
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld botón padding: 9.6px 19.2px
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld botón border-radius: 8px
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld total elementos con clases mfe1-*: 20
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld elemento 0: {className: 'mfe1-min-h-screen mfe1-bg-gradient-to-br mfe1-from…ex mfe1-items-center mfe1-justify-center mfe1-p-8', backgroundColor: 'rgba(0, 0, 0, 0)', color: 'rgba(255, 255, 255, 0.87)', display: 'block', padding: '0px'}
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld elemento 1: {className: 'mfe1-max-w-2xl mfe1-mx-auto mfe1-text-center', backgroundColor: 'rgba(0, 0, 0, 0)', color: 'rgba(255, 255, 255, 0.87)', display: 'block', padding: '0px'}
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld elemento 2: {className: 'mfe1-bg-white mfe1-rounded-2xl mfe1-shadow-xl mfe1-p-8 mfe1-border mfe1-border-blue-200', backgroundColor: 'rgba(0, 0, 0, 0)', color: 'rgba(255, 255, 255, 0.87)', display: 'block', padding: '0px'}
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld elemento 3: {className: 'mfe1-mb-8', backgroundColor: 'rgba(0, 0, 0, 0)', color: 'rgba(255, 255, 255, 0.87)', display: 'block', padding: '0px'}
-__federation_expose_HelloWorld-BG3ay_Sj.js:1 🟢 MFE-1: HelloWorld elemento 4: {className: 'mfe1-text-4xl mfe1-font-bold mfe1-text-blue-600 mfe1-mb-2', backgroundColor: 'rgba(0, 0, 0, 0)', color: 'rgba(255, 255, 255, 0.87)', display: 'block', padding: '0px'}
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld verificando estilos después de 500ms...
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld contenedor principal encontrado
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld min-height: 0px
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld display: block
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld padding: 0px
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld ❌ No se encontró el botón .mfe2-bg-purple-600
+[EventBus] New emitter created: juq9hr
+main.js:96 🏁 Archivo main.js cargado, iniciando aplicación...
+main.js:25 🚀 Iniciando la aplicación...
+main.js:27 📦 Intentando cargar módulos remotos...
+main.js:31 ✅ Store remoto cargado
+main.js:33 ✅ Store de carreras cargado
+main.js:35 ✅ Store de Biblioteca cargado
+main.js:37 ✅ Todos los módulos remotos cargados correctamente
+main.js:42 📱 App, Pinia y Head creados
+main.js:51 ⚙️ Configuración global establecida
+fetchInterceptor.js:6 [FetchInterceptor] Inicializando interceptor de fetch en HOST
+main.js:55 🔄 Interceptor de fetch inicializado
+main.js:73 🔌 Plugins instalados
+main.js:87 🎯 Intentando montar la aplicación...
+fetchInterceptor.js:30 [FetchInterceptor] Solicitud a https://backend.autogestion.atlantida.edu.ar/api/perfil/datosPersonales
+main.js:89 ✅ Aplicación montada correctamente
+index.js:816 🚦 Navegando de: / a: /perfil/datos-personales
+index.js:822 🔐 Estado de autenticación: {isPublic: false, onlyWhenLoggedOut: false, requiresAuth: true, isAuthenticated: true}
+index.js:852 ✅ Navegación permitida
+index.js:100 👤 Intentando cargar el componente Perfil...
+index.js:103 📦 Importando módulo Perfil...
+index.js:105 ✅ Módulo Perfil importado: Module {Symbol(Symbol.toStringTag): 'Module'}
+index.js:107 🎯 Retornando componente Perfil...
+Sidebar.vue:567 Obteniendo menú con token: eyJhbGciOi...
+fetchInterceptor.js:30 [FetchInterceptor] Solicitud a https://backend.autogestion.atlantida.edu.ar/api/user/menu
+fetchInterceptor.js:30 [FetchInterceptor] Solicitud a https://backend.autogestion.atlantida.edu.ar/api/perfil/datosPersonales
+eventBus.js:59 [EventBus] Subscribing to show-modal
+eventBus.js:59 [EventBus] Subscribing to error
+eventBus.js:59 [EventBus] Subscribing to navigation
+eventBus.js:59 [EventBus] Subscribing to success
+eventBus.js:59 [EventBus] Subscribing to notification
+Sidebar.vue:576 Respuesta de menú: 200 https://backend.autogestion.atlantida.edu.ar/api/user/menu
+Sidebar.vue:403 Datos personales actualizados: Proxy(Object) {dni: '32002822', nombre: 'LEONARDO PABLO', apellido: 'MANNANICE', sexo: 'M', fecha_nac: '1985-12-05T03:00:00.000Z', …}
+Sidebar.vue:396 Usuario actualizado: Proxy(Object) {nombreapellido: 'LEONARDO PABLO MANNANICE', dni: '32002822', nombre: 'LEONARDO PABLO', apellido: 'MANNANICE', sexo: 'M', …}
+Sidebar.vue:583 Menú obtenido: (40) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 1 items
+Sidebar.vue:592 Creando menuItem: Datos Personales path: /perfil/datos-personales
+Sidebar.vue:587 Construyendo jerarquía para parentId: 1 con 1 items
+Sidebar.vue:604 Hijos encontrados para Datos Personales : 0
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 2 items
+Sidebar.vue:592 Creando menuItem: Biblioteca Virtual path: /biblioteca/biblioteca-virtual
+Sidebar.vue:587 Construyendo jerarquía para parentId: 2 con 2 items
+Sidebar.vue:604 Hijos encontrados para Biblioteca Virtual : 0
+Sidebar.vue:592 Creando menuItem: Catálogo path: /biblioteca/catalogo
+Sidebar.vue:587 Construyendo jerarquía para parentId: 3 con 2 items
+Sidebar.vue:604 Hijos encontrados para Catálogo : 0
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 1 items
+Sidebar.vue:592 Creando menuItem: Ingresar al Campus Virtual path: https://virtual.atlantida.edu.ar/login/index.php
+Sidebar.vue:587 Construyendo jerarquía para parentId: 4 con 1 items
+Sidebar.vue:604 Hijos encontrados para Ingresar al Campus Virtual : 0
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 3 items
+Sidebar.vue:592 Creando menuItem: Generación Cupón de Pago path: /cuenta-corriente/cupon-pago
+Sidebar.vue:587 Construyendo jerarquía para parentId: 5 con 3 items
+Sidebar.vue:604 Hijos encontrados para Generación Cupón de Pago : 0
+Sidebar.vue:592 Creando menuItem: Matriculación path: /cuenta-corriente/matriculacion
+Sidebar.vue:587 Construyendo jerarquía para parentId: 6 con 3 items
+Sidebar.vue:604 Hijos encontrados para Matriculación : 0
+Sidebar.vue:592 Creando menuItem: Mi Cuenta Corriente path: /cuenta-corriente/cuenta-corriente
+Sidebar.vue:587 Construyendo jerarquía para parentId: 7 con 3 items
+Sidebar.vue:604 Hijos encontrados para Mi Cuenta Corriente : 0
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 2 items
+Sidebar.vue:592 Creando menuItem: Gestión de Consultas path: /gestiones/consultas
+Sidebar.vue:587 Construyendo jerarquía para parentId: 8 con 2 items
+Sidebar.vue:604 Hijos encontrados para Gestión de Consultas : 0
+Sidebar.vue:592 Creando menuItem: Gestión de Becas path: /gestiones/becas
+Sidebar.vue:587 Construyendo jerarquía para parentId: 9 con 2 items
+Sidebar.vue:604 Hijos encontrados para Gestión de Becas : 0
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 2 items
+Sidebar.vue:592 Creando menuItem: Solicitar Certificado path: /certificados/solicitar-certificado
+Sidebar.vue:587 Construyendo jerarquía para parentId: 10 con 2 items
+Sidebar.vue:604 Hijos encontrados para Solicitar Certificado : 0
+Sidebar.vue:592 Creando menuItem: Ver Certificado path: /certificados/ver-certificado
+Sidebar.vue:587 Construyendo jerarquía para parentId: 11 con 2 items
+Sidebar.vue:604 Hijos encontrados para Ver Certificado : 0
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 1 items
+Sidebar.vue:592 Creando menuItem: Oportunidades Laborales path: /empleos/oportunidades
+Sidebar.vue:587 Construyendo jerarquía para parentId: 12 con 1 items
+Sidebar.vue:604 Hijos encontrados para Oportunidades Laborales : 0
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 9 items
+Sidebar.vue:592 Creando menuItem: Donde Curso path: /trayectoria/donde-curso
+Sidebar.vue:587 Construyendo jerarquía para parentId: 13 con 9 items
+Sidebar.vue:604 Hijos encontrados para Donde Curso : 0
+Sidebar.vue:592 Creando menuItem: Inscripción a Cursadas path: /trayectoria/inscripcion-cursadas
+Sidebar.vue:587 Construyendo jerarquía para parentId: 14 con 9 items
+Sidebar.vue:604 Hijos encontrados para Inscripción a Cursadas : 0
+Sidebar.vue:592 Creando menuItem: Fecha de Finales path: /trayectoria/fecha-finales
+Sidebar.vue:587 Construyendo jerarquía para parentId: 15 con 9 items
+Sidebar.vue:604 Hijos encontrados para Fecha de Finales : 0
+Sidebar.vue:592 Creando menuItem: Inscripción a Finales path: /trayectoria/inscripcion-finales
+Sidebar.vue:587 Construyendo jerarquía para parentId: 16 con 9 items
+Sidebar.vue:604 Hijos encontrados para Inscripción a Finales : 0
+Sidebar.vue:592 Creando menuItem: Plan de Estudio path: /trayectoria/plan-estudio
+Sidebar.vue:587 Construyendo jerarquía para parentId: 17 con 9 items
+Sidebar.vue:592 Creando menuItem: Correlativas path: /trayectoria/correlativas
+Sidebar.vue:587 Construyendo jerarquía para parentId: 18 con 9 items
+Sidebar.vue:604 Hijos encontrados para Correlativas : 0
+Sidebar.vue:592 Creando menuItem: Programas path: /trayectoria/programas
+Sidebar.vue:587 Construyendo jerarquía para parentId: 19 con 9 items
+Sidebar.vue:604 Hijos encontrados para Programas : 0
+Sidebar.vue:604 Hijos encontrados para Plan de Estudio : 2
+Sidebar.vue:592 Creando menuItem: Mi Trayecto Académico path: /trayectoria/trayecto-academico
+Sidebar.vue:587 Construyendo jerarquía para parentId: 20 con 9 items
+Sidebar.vue:604 Hijos encontrados para Mi Trayecto Académico : 0
+Sidebar.vue:592 Creando menuItem: Curriculum Vitae path: /trayectoria/curriculum
+Sidebar.vue:587 Construyendo jerarquía para parentId: 21 con 9 items
+Sidebar.vue:604 Hijos encontrados para Curriculum Vitae : 0
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 6 items
+Sidebar.vue:592 Creando menuItem: Finales path: /docente/finales-docente
+Sidebar.vue:587 Construyendo jerarquía para parentId: 22 con 6 items
+Sidebar.vue:604 Hijos encontrados para Finales : 0
+Sidebar.vue:592 Creando menuItem: Liquidación Asistencia Docente path: /docente/liquidacion
+Sidebar.vue:587 Construyendo jerarquía para parentId: 23 con 6 items
+Sidebar.vue:604 Hijos encontrados para Liquidación Asistencia Docente : 0
+Sidebar.vue:592 Creando menuItem: Nombramientos Docentes path: /docente/nombramientos
+Sidebar.vue:587 Construyendo jerarquía para parentId: 24 con 6 items
+Sidebar.vue:592 Creando menuItem: Histórico de Cursadas path: /docente/historico-cursadas
+Sidebar.vue:587 Construyendo jerarquía para parentId: 25 con 6 items
+Sidebar.vue:604 Hijos encontrados para Histórico de Cursadas : 0
+Sidebar.vue:592 Creando menuItem: Cátedras Actuales path: /docente/catedras
+Sidebar.vue:587 Construyendo jerarquía para parentId: 26 con 6 items
+Sidebar.vue:604 Hijos encontrados para Cátedras Actuales : 0
+Sidebar.vue:592 Creando menuItem: Cargar Programas path: /docente/cargar-programas
+Sidebar.vue:587 Construyendo jerarquía para parentId: 27 con 6 items
+Sidebar.vue:604 Hijos encontrados para Cargar Programas : 0
+Sidebar.vue:604 Hijos encontrados para Nombramientos Docentes : 3
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 2 items
+Sidebar.vue:592 Creando menuItem: Documentos SCDI path: /investigacion/documentos-scdi
+Sidebar.vue:587 Construyendo jerarquía para parentId: 28 con 2 items
+Sidebar.vue:604 Hijos encontrados para Documentos SCDI : 0
+Sidebar.vue:592 Creando menuItem: Solicitudes SCDI path: /investigacion/solicitudes-scdi
+Sidebar.vue:587 Construyendo jerarquía para parentId: 29 con 2 items
+Sidebar.vue:604 Hijos encontrados para Solicitudes SCDI : 0
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 3 items
+Sidebar.vue:592 Creando menuItem: Mis Cursos path: /extension/mis-cursos
+Sidebar.vue:587 Construyendo jerarquía para parentId: 30 con 3 items
+Sidebar.vue:604 Hijos encontrados para Mis Cursos : 0
+Sidebar.vue:592 Creando menuItem: Mis Certificados path: /extension/mis-certificados-ext
+Sidebar.vue:587 Construyendo jerarquía para parentId: 31 con 3 items
+Sidebar.vue:604 Hijos encontrados para Mis Certificados : 0
+Sidebar.vue:592 Creando menuItem: Mis Fojas path: /extension/mis-fojas
+Sidebar.vue:587 Construyendo jerarquía para parentId: 32 con 3 items
+Sidebar.vue:604 Hijos encontrados para Mis Fojas : 0
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 5 items
+Sidebar.vue:592 Creando menuItem: Calendario Académico path: /normativas/calendario
+Sidebar.vue:587 Construyendo jerarquía para parentId: 33 con 5 items
+Sidebar.vue:604 Hijos encontrados para Calendario Académico : 0
+Sidebar.vue:592 Creando menuItem: Normativa Estudiantes path: /normativas/normativa-estudiantes
+Sidebar.vue:587 Construyendo jerarquía para parentId: 34 con 5 items
+Sidebar.vue:592 Creando menuItem: Normativa Universitaria path: /normativas/normativa-univ
+Sidebar.vue:587 Construyendo jerarquía para parentId: 35 con 5 items
+Sidebar.vue:604 Hijos encontrados para Normativa Universitaria : 0
+Sidebar.vue:592 Creando menuItem: Reglamento de Alumnos path: /normativas/reglamento-alumnos
+Sidebar.vue:587 Construyendo jerarquía para parentId: 36 con 5 items
+Sidebar.vue:604 Hijos encontrados para Reglamento de Alumnos : 0
+Sidebar.vue:592 Creando menuItem: Reglamento Arancelario path: /normativas/reglamento-arancelario
+Sidebar.vue:587 Construyendo jerarquía para parentId: 37 con 5 items
+Sidebar.vue:604 Hijos encontrados para Reglamento Arancelario : 0
+Sidebar.vue:604 Hijos encontrados para Normativa Estudiantes : 3
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 1 items
+Sidebar.vue:592 Creando menuItem: Normativa Docente path: /normativa-docente/normativa-docente
+Sidebar.vue:587 Construyendo jerarquía para parentId: 38 con 1 items
+Sidebar.vue:604 Hijos encontrados para Normativa Docente : 0
+Sidebar.vue:587 Construyendo jerarquía para parentId: null con 2 items
+Sidebar.vue:592 Creando menuItem: Instructivo Cupón de Pago path: /ayuda/instructivo-cupon
+Sidebar.vue:587 Construyendo jerarquía para parentId: 40 con 2 items
+Sidebar.vue:604 Hijos encontrados para Instructivo Cupón de Pago : 0
+Sidebar.vue:592 Creando menuItem: Instructivo Mercado Pago path: /ayuda/instructivo-mercadopago
+Sidebar.vue:587 Construyendo jerarquía para parentId: 41 con 2 items
+Sidebar.vue:604 Hijos encontrados para Instructivo Mercado Pago : 0
+Sidebar.vue:632 Menú procesado con jerarquía: Proxy(Array) {0: {…}, 1: {…}, 2: {…}, 3: {…}, 4: {…}, 5: {…}, 6: {…}, 7: {…}, 8: {…}, 9: {…}, 10: {…}, 11: {…}, 12: {…}, 13: {…}}
+Sidebar.vue:636 [Vue Router warn]: No match found for location with path "https://virtual.atlantida.edu.ar/login/index.php"
 overrideMethod @ hook.js:608
-(anonymous) @ __federation_expose_HelloWorld-BTA03kcr.js:1
-setTimeout
-(anonymous) @ __federation_expose_HelloWorld-BTA03kcr.js:1
-(anonymous) @ __federation_shared_vue-CC8lI-Gg.js:14
-un @ __federation_shared_vue-CC8lI-Gg.js:13
-ke @ __federation_shared_vue-CC8lI-Gg.js:13
-t.__weh.t.__weh @ __federation_shared_vue-CC8lI-Gg.js:14
-Bn @ __federation_shared_vue-CC8lI-Gg.js:13
-ji @ __federation_shared_vue-CC8lI-Gg.js:13
+warn @ vue-router.js?v=1f59012e:204
+resolve @ vue-router.js?v=1f59012e:2397
+(anonymous) @ vue-router.js?v=1f59012e:1683
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:659
+get value @ chunk-4EPKHDIW.js?v=1f59012e:1860
+useLink @ vue-router.js?v=1f59012e:1724
+setup @ vue-router.js?v=1f59012e:1771
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+setupStatefulComponent @ chunk-4EPKHDIW.js?v=1f59012e:10109
+setupComponent @ chunk-4EPKHDIW.js?v=1f59012e:10070
+mountComponent @ chunk-4EPKHDIW.js?v=1f59012e:7406
+processComponent @ chunk-4EPKHDIW.js?v=1f59012e:7372
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6886
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+mountElement @ chunk-4EPKHDIW.js?v=1f59012e:7043
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7008
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+componentUpdateFn @ chunk-4EPKHDIW.js?v=1f59012e:7518
+run @ chunk-4EPKHDIW.js?v=1f59012e:505
+setupRenderEffect @ chunk-4EPKHDIW.js?v=1f59012e:7646
+mountComponent @ chunk-4EPKHDIW.js?v=1f59012e:7420
+processComponent @ chunk-4EPKHDIW.js?v=1f59012e:7372
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6886
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+mountElement @ chunk-4EPKHDIW.js?v=1f59012e:7043
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7008
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+mountElement @ chunk-4EPKHDIW.js?v=1f59012e:7043
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7008
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+patchBlockChildren @ chunk-4EPKHDIW.js?v=1f59012e:7242
+patchElement @ chunk-4EPKHDIW.js?v=1f59012e:7160
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7019
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+componentUpdateFn @ chunk-4EPKHDIW.js?v=1f59012e:7598
+run @ chunk-4EPKHDIW.js?v=1f59012e:505
+runIfDirty @ chunk-4EPKHDIW.js?v=1f59012e:543
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2503
 Promise.then
-$i @ __federation_shared_vue-CC8lI-Gg.js:13
-Un @ __federation_shared_vue-CC8lI-Gg.js:13
-resolve @ __federation_shared_vue-CC8lI-Gg.js:14
-(anonymous) @ __federation_shared_vue-CC8lI-Gg.js:14
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queueJob @ chunk-4EPKHDIW.js?v=1f59012e:2412
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:7640
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+obtenerMenu @ Sidebar.vue:636
+await in obtenerMenu
+(anonymous) @ Sidebar.vue:836
+(anonymous) @ chunk-4EPKHDIW.js?v=1f59012e:5000
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+hook.__weh.hook.__weh @ chunk-4EPKHDIW.js?v=1f59012e:4980
+flushPostFlushCbs @ chunk-4EPKHDIW.js?v=1f59012e:2480
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2522
 Promise.then
-registerDep @ __federation_shared_vue-CC8lI-Gg.js:14
-Q @ __federation_shared_vue-CC8lI-Gg.js:14
-j @ __federation_shared_vue-CC8lI-Gg.js:14
-v @ __federation_shared_vue-CC8lI-Gg.js:14
-Xc @ __federation_shared_vue-CC8lI-Gg.js:14
-process @ __federation_shared_vue-CC8lI-Gg.js:14
-v @ __federation_shared_vue-CC8lI-Gg.js:14
-V @ __federation_shared_vue-CC8lI-Gg.js:14
-O @ __federation_shared_vue-CC8lI-Gg.js:14
-y @ __federation_shared_vue-CC8lI-Gg.js:14
-v @ __federation_shared_vue-CC8lI-Gg.js:14
-V @ __federation_shared_vue-CC8lI-Gg.js:14
-O @ __federation_shared_vue-CC8lI-Gg.js:14
-y @ __federation_shared_vue-CC8lI-Gg.js:14
-v @ __federation_shared_vue-CC8lI-Gg.js:14
-V @ __federation_shared_vue-CC8lI-Gg.js:14
-O @ __federation_shared_vue-CC8lI-Gg.js:14
-y @ __federation_shared_vue-CC8lI-Gg.js:14
-v @ __federation_shared_vue-CC8lI-Gg.js:14
-V @ __federation_shared_vue-CC8lI-Gg.js:14
-O @ __federation_shared_vue-CC8lI-Gg.js:14
-y @ __federation_shared_vue-CC8lI-Gg.js:14
-v @ __federation_shared_vue-CC8lI-Gg.js:14
-V @ __federation_shared_vue-CC8lI-Gg.js:14
-O @ __federation_shared_vue-CC8lI-Gg.js:14
-y @ __federation_shared_vue-CC8lI-Gg.js:14
-v @ __federation_shared_vue-CC8lI-Gg.js:14
-M @ __federation_shared_vue-CC8lI-Gg.js:14
-run @ __federation_shared_vue-CC8lI-Gg.js:9
-k @ __federation_shared_vue-CC8lI-Gg.js:14
-Q @ __federation_shared_vue-CC8lI-Gg.js:14
-j @ __federation_shared_vue-CC8lI-Gg.js:14
-v @ __federation_shared_vue-CC8lI-Gg.js:14
-Tr @ __federation_shared_vue-CC8lI-Gg.js:14
-mount @ __federation_shared_vue-CC8lI-Gg.js:14
-t.mount @ __federation_shared_vue-CC8lI-Gg.js:18
-(anonymous) @ index--UsoGjjy.js:1Understand this error
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld total elementos con clases mfe2-*: 33
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld elemento 0: {className: 'mfe2-min-h-screen mfe2-bg-gradient-to-br mfe2-from…ex mfe2-items-center mfe2-justify-center mfe2-p-8', backgroundColor: 'rgba(0, 0, 0, 0)', color: 'rgba(255, 255, 255, 0.87)', display: 'block', padding: '0px'}
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld elemento 1: {className: 'mfe2-max-w-2xl mfe2-mx-auto mfe2-text-center', backgroundColor: 'rgba(0, 0, 0, 0)', color: 'rgba(255, 255, 255, 0.87)', display: 'block', padding: '0px'}
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld elemento 2: {className: 'mfe2-bg-white mfe2-rounded-3xl mfe2-shadow-2xl mfe…rder mfe2-border-purple-200 mfe2-backdrop-blur-sm', backgroundColor: 'rgba(0, 0, 0, 0)', color: 'rgba(255, 255, 255, 0.87)', display: 'block', padding: '0px'}
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld elemento 3: {className: 'mfe2-mb-8', backgroundColor: 'rgba(0, 0, 0, 0)', color: 'rgba(255, 255, 255, 0.87)', display: 'block', padding: '0px'}
-__federation_expose_HelloWorld-BTA03kcr.js:1 🟣 MFE-2: HelloWorld elemento 4: {className: 'mfe2-inline-flex mfe2-items-center mfe2-justify-ce…16 mfe2-bg-purple-100 mfe2-rounded-full mfe2-mb-4', backgroundColor: 'rgba(0, 0, 0, 0)', color: 'rgba(255, 255, 255, 0.87)', display: 'block', padding: '0px'}
-index--UsoGjjy.js:1 🏠 HOST: Verificando estilos aplicados después de 2s...
-index--UsoGjjy.js:1 🏠 HOST: Estilos computados del elemento #app:
-index--UsoGjjy.js:1 🏠 HOST: background-color: rgba(0, 0, 0, 0)
-index--UsoGjjy.js:1 🏠 HOST: padding: 32px
-index--UsoGjjy.js:1 🏠 HOST: min-height: auto
-index--UsoGjjy.js:1 🏠 HOST: Elementos con clases mfe1-*: 20
-index--UsoGjjy.js:1 🏠 HOST: Elementos con clases mfe2-*: 33
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 0: mfe1-min-h-screen mfe1-bg-gradient-to-br mfe1-from-blue-50 mfe1-to-indigo-100 mfe1-flex mfe1-items-center mfe1-justify-center mfe1-p-8 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 1: mfe1-max-w-2xl mfe1-mx-auto mfe1-text-center CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 2: mfe1-bg-white mfe1-rounded-2xl mfe1-shadow-xl mfe1-p-8 mfe1-border mfe1-border-blue-200 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 3: mfe1-mb-8 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 4: mfe1-text-4xl mfe1-font-bold mfe1-text-blue-600 mfe1-mb-2 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 5: mfe1-w-24 mfe1-h-1 mfe1-bg-blue-500 mfe1-mx-auto mfe1-rounded-full CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 6: mfe1-bg-blue-50 mfe1-rounded-xl mfe1-p-6 mfe1-mb-6 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 7: mfe1-bg-blue-600 mfe1-hover:bg-blue-700 mfe1-text-white mfe1-font-semibold mfe1-py-3 mfe1-px-6 mfe1-rounded-lg mfe1-transition-colors mfe1-duration-200 mfe1-shadow-md mfe1-hover:shadow-lg mfe1-transform mfe1-hover:scale-105 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 8: mfe1-mt-4 mfe1-text-gray-600 mfe1-text-sm CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 9: mfe1-bg-gray-200 mfe1-px-2 mfe1-py-1 mfe1-rounded mfe1-text-blue-800 mfe1-font-mono mfe1-text-xs CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 10: mfe1-grid mfe1-grid-cols-1 mfe1-md:grid-cols-2 mfe1-gap-4 mfe1-mb-6 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 11: mfe1-bg-gradient-to-r mfe1-from-blue-500 mfe1-to-purple-600 mfe1-text-white mfe1-p-4 mfe1-rounded-lg CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 12: mfe1-font-semibold mfe1-mb-2 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 13: mfe1-text-sm mfe1-space-y-1 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 14: mfe1-bg-gradient-to-r mfe1-from-green-500 mfe1-to-teal-600 mfe1-text-white mfe1-p-4 mfe1-rounded-lg CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 15: mfe1-font-semibold mfe1-mb-2 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 16: mfe1-text-white mfe1-underline mfe1-hover:text-yellow-200 mfe1-transition-colors mfe1-text-sm CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 17: mfe1-flex mfe1-items-center mfe1-justify-center mfe1-space-x-2 mfe1-text-sm mfe1-text-gray-500 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 18: mfe1-w-2 mfe1-h-2 mfe1-bg-blue-500 mfe1-rounded-full mfe1-animate-pulse CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE1 elemento 19: mfe1-w-2 mfe1-h-2 mfe1-bg-blue-500 mfe1-rounded-full mfe1-animate-pulse CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 0: mfe2-min-h-screen mfe2-bg-gradient-to-br mfe2-from-purple-50 mfe2-to-pink-100 mfe2-flex mfe2-items-center mfe2-justify-center mfe2-p-8 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 1: mfe2-max-w-2xl mfe2-mx-auto mfe2-text-center CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 2: mfe2-bg-white mfe2-rounded-3xl mfe2-shadow-2xl mfe2-p-8 mfe2-border mfe2-border-purple-200 mfe2-backdrop-blur-sm CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 3: mfe2-mb-8 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 4: mfe2-inline-flex mfe2-items-center mfe2-justify-center mfe2-w-16 mfe2-h-16 mfe2-bg-purple-100 mfe2-rounded-full mfe2-mb-4 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 5: mfe2-text-2xl CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 6: mfe2-text-4xl mfe2-font-bold mfe2-text-purple-600 mfe2-mb-2 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 7: mfe2-w-32 mfe2-h-1 mfe2-bg-gradient-to-r mfe2-from-purple-500 mfe2-to-pink-500 mfe2-mx-auto mfe2-rounded-full CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 8: mfe2-bg-gradient-to-r mfe2-from-purple-50 mfe2-to-pink-50 mfe2-rounded-2xl mfe2-p-6 mfe2-mb-6 mfe2-border mfe2-border-purple-100 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 9: mfe2-bg-gradient-to-r mfe2-from-purple-600 mfe2-to-pink-600 mfe2-hover:from-purple-700 mfe2-hover:to-pink-700 mfe2-text-white mfe2-font-bold mfe2-py-4 mfe2-px-8 mfe2-rounded-xl mfe2-transition-all mfe2-duration-300 mfe2-shadow-lg mfe2-hover:shadow-xl mfe2-transform mfe2-hover:scale-110 mfe2-hover:-rotate-1 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 10: mfe2-mt-4 mfe2-text-gray-600 mfe2-text-sm mfe2-italic CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 11: mfe2-bg-purple-100 mfe2-px-3 mfe2-py-1 mfe2-rounded-lg mfe2-text-purple-800 mfe2-font-mono mfe2-text-xs mfe2-border mfe2-border-purple-200 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 12: mfe2-space-y-4 mfe2-mb-6 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 13: mfe2-bg-gradient-to-r mfe2-from-purple-500 mfe2-via-pink-500 mfe2-to-red-500 mfe2-text-white mfe2-p-6 mfe2-rounded-xl mfe2-shadow-lg CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 14: mfe2-font-bold mfe2-mb-3 mfe2-text-lg CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 15: mfe2-grid mfe2-grid-cols-2 mfe2-gap-3 mfe2-text-sm CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 16: mfe2-flex mfe2-items-center mfe2-space-x-2 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 17: mfe2-w-2 mfe2-h-2 mfe2-bg-yellow-300 mfe2-rounded-full CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 18: mfe2-flex mfe2-items-center mfe2-space-x-2 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 19: mfe2-w-2 mfe2-h-2 mfe2-bg-yellow-300 mfe2-rounded-full CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 20: mfe2-flex mfe2-items-center mfe2-space-x-2 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 21: mfe2-w-2 mfe2-h-2 mfe2-bg-yellow-300 mfe2-rounded-full CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 22: mfe2-flex mfe2-items-center mfe2-space-x-2 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 23: mfe2-w-2 mfe2-h-2 mfe2-bg-yellow-300 mfe2-rounded-full CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 24: mfe2-bg-white mfe2-border-2 mfe2-border-dashed mfe2-border-purple-300 mfe2-p-4 mfe2-rounded-xl CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 25: mfe2-text-purple-600 mfe2-font-semibold mfe2-mb-2 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 26: mfe2-text-purple-500 mfe2-hover:text-pink-500 mfe2-underline mfe2-transition-colors mfe2-text-sm mfe2-font-medium CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 27: mfe2-flex mfe2-items-center mfe2-justify-center mfe2-space-x-3 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 28: mfe2-flex mfe2-space-x-1 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 29: mfe2-w-3 mfe2-h-3 mfe2-bg-purple-400 mfe2-rounded-full mfe2-animate-bounce CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 30: mfe2-w-3 mfe2-h-3 mfe2-bg-pink-400 mfe2-rounded-full mfe2-animate-bounce mfe2-animation-delay-75 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 31: mfe2-w-3 mfe2-h-3 mfe2-bg-red-400 mfe2-rounded-full mfe2-animate-bounce mfe2-animation-delay-150 CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
-index--UsoGjjy.js:1 🏠 HOST: MFE2 elemento 32: mfe2-text-sm mfe2-text-gray-500 mfe2-font-medium CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-color', 83: 'clear', 84: 'clip', 85: 'clip-path', 86: 'clip-rule', 87: 'color', 88: 'color-interpolation', 89: 'color-interpolation-filters', 90: 'color-rendering', 91: 'column-count', 92: 'column-gap', 93: 'column-rule-color', 94: 'column-rule-style', 95: 'column-rule-width', 96: 'column-span', 97: 'column-width', 98: 'contain-intrinsic-block-size', 99: 'contain-intrinsic-height', …}
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queuePostFlushCb @ chunk-4EPKHDIW.js?v=1f59012e:2431
+queueEffectWithSuspense @ chunk-4EPKHDIW.js?v=1f59012e:9524
+baseWatchOptions.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:8403
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:2041
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+finalizeNavigation @ vue-router.js?v=1f59012e:2677
+(anonymous) @ vue-router.js?v=1f59012e:2587
+Promise.then
+pushWithRedirect @ vue-router.js?v=1f59012e:2555
+push @ vue-router.js?v=1f59012e:2481
+install @ vue-router.js?v=1f59012e:2836
+use @ chunk-4EPKHDIW.js?v=1f59012e:6042
+initApp @ main.js:59
+await in initApp
+(anonymous) @ main.js:97Understand this warning
+Sidebar.vue:636 [Vue Router warn]: No match found for location with path "/extension/mis-cursos"
+overrideMethod @ hook.js:608
+warn @ vue-router.js?v=1f59012e:204
+resolve @ vue-router.js?v=1f59012e:2397
+(anonymous) @ vue-router.js?v=1f59012e:1683
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:659
+get value @ chunk-4EPKHDIW.js?v=1f59012e:1860
+useLink @ vue-router.js?v=1f59012e:1724
+setup @ vue-router.js?v=1f59012e:1771
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+setupStatefulComponent @ chunk-4EPKHDIW.js?v=1f59012e:10109
+setupComponent @ chunk-4EPKHDIW.js?v=1f59012e:10070
+mountComponent @ chunk-4EPKHDIW.js?v=1f59012e:7406
+processComponent @ chunk-4EPKHDIW.js?v=1f59012e:7372
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6886
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+mountElement @ chunk-4EPKHDIW.js?v=1f59012e:7043
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7008
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+componentUpdateFn @ chunk-4EPKHDIW.js?v=1f59012e:7518
+run @ chunk-4EPKHDIW.js?v=1f59012e:505
+setupRenderEffect @ chunk-4EPKHDIW.js?v=1f59012e:7646
+mountComponent @ chunk-4EPKHDIW.js?v=1f59012e:7420
+processComponent @ chunk-4EPKHDIW.js?v=1f59012e:7372
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6886
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+mountElement @ chunk-4EPKHDIW.js?v=1f59012e:7043
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7008
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+mountElement @ chunk-4EPKHDIW.js?v=1f59012e:7043
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7008
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+patchBlockChildren @ chunk-4EPKHDIW.js?v=1f59012e:7242
+patchElement @ chunk-4EPKHDIW.js?v=1f59012e:7160
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7019
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+componentUpdateFn @ chunk-4EPKHDIW.js?v=1f59012e:7598
+run @ chunk-4EPKHDIW.js?v=1f59012e:505
+runIfDirty @ chunk-4EPKHDIW.js?v=1f59012e:543
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2503
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queueJob @ chunk-4EPKHDIW.js?v=1f59012e:2412
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:7640
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+obtenerMenu @ Sidebar.vue:636
+await in obtenerMenu
+(anonymous) @ Sidebar.vue:836
+(anonymous) @ chunk-4EPKHDIW.js?v=1f59012e:5000
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+hook.__weh.hook.__weh @ chunk-4EPKHDIW.js?v=1f59012e:4980
+flushPostFlushCbs @ chunk-4EPKHDIW.js?v=1f59012e:2480
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2522
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queuePostFlushCb @ chunk-4EPKHDIW.js?v=1f59012e:2431
+queueEffectWithSuspense @ chunk-4EPKHDIW.js?v=1f59012e:9524
+baseWatchOptions.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:8403
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:2041
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+finalizeNavigation @ vue-router.js?v=1f59012e:2677
+(anonymous) @ vue-router.js?v=1f59012e:2587
+Promise.then
+pushWithRedirect @ vue-router.js?v=1f59012e:2555
+push @ vue-router.js?v=1f59012e:2481
+install @ vue-router.js?v=1f59012e:2836
+use @ chunk-4EPKHDIW.js?v=1f59012e:6042
+initApp @ main.js:59
+await in initApp
+(anonymous) @ main.js:97Understand this warning
+Sidebar.vue:636 [Vue Router warn]: No match found for location with path "/extension/mis-certificados-ext"
+overrideMethod @ hook.js:608
+warn @ vue-router.js?v=1f59012e:204
+resolve @ vue-router.js?v=1f59012e:2397
+(anonymous) @ vue-router.js?v=1f59012e:1683
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:659
+get value @ chunk-4EPKHDIW.js?v=1f59012e:1860
+useLink @ vue-router.js?v=1f59012e:1724
+setup @ vue-router.js?v=1f59012e:1771
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+setupStatefulComponent @ chunk-4EPKHDIW.js?v=1f59012e:10109
+setupComponent @ chunk-4EPKHDIW.js?v=1f59012e:10070
+mountComponent @ chunk-4EPKHDIW.js?v=1f59012e:7406
+processComponent @ chunk-4EPKHDIW.js?v=1f59012e:7372
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6886
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+mountElement @ chunk-4EPKHDIW.js?v=1f59012e:7043
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7008
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+componentUpdateFn @ chunk-4EPKHDIW.js?v=1f59012e:7518
+run @ chunk-4EPKHDIW.js?v=1f59012e:505
+setupRenderEffect @ chunk-4EPKHDIW.js?v=1f59012e:7646
+mountComponent @ chunk-4EPKHDIW.js?v=1f59012e:7420
+processComponent @ chunk-4EPKHDIW.js?v=1f59012e:7372
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6886
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+mountElement @ chunk-4EPKHDIW.js?v=1f59012e:7043
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7008
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+mountElement @ chunk-4EPKHDIW.js?v=1f59012e:7043
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7008
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+patchBlockChildren @ chunk-4EPKHDIW.js?v=1f59012e:7242
+patchElement @ chunk-4EPKHDIW.js?v=1f59012e:7160
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7019
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+componentUpdateFn @ chunk-4EPKHDIW.js?v=1f59012e:7598
+run @ chunk-4EPKHDIW.js?v=1f59012e:505
+runIfDirty @ chunk-4EPKHDIW.js?v=1f59012e:543
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2503
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queueJob @ chunk-4EPKHDIW.js?v=1f59012e:2412
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:7640
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+obtenerMenu @ Sidebar.vue:636
+await in obtenerMenu
+(anonymous) @ Sidebar.vue:836
+(anonymous) @ chunk-4EPKHDIW.js?v=1f59012e:5000
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+hook.__weh.hook.__weh @ chunk-4EPKHDIW.js?v=1f59012e:4980
+flushPostFlushCbs @ chunk-4EPKHDIW.js?v=1f59012e:2480
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2522
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queuePostFlushCb @ chunk-4EPKHDIW.js?v=1f59012e:2431
+queueEffectWithSuspense @ chunk-4EPKHDIW.js?v=1f59012e:9524
+baseWatchOptions.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:8403
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:2041
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+finalizeNavigation @ vue-router.js?v=1f59012e:2677
+(anonymous) @ vue-router.js?v=1f59012e:2587
+Promise.then
+pushWithRedirect @ vue-router.js?v=1f59012e:2555
+push @ vue-router.js?v=1f59012e:2481
+install @ vue-router.js?v=1f59012e:2836
+use @ chunk-4EPKHDIW.js?v=1f59012e:6042
+initApp @ main.js:59
+await in initApp
+(anonymous) @ main.js:97Understand this warning
+Sidebar.vue:636 [Vue Router warn]: No match found for location with path "/extension/mis-fojas"
+overrideMethod @ hook.js:608
+warn @ vue-router.js?v=1f59012e:204
+resolve @ vue-router.js?v=1f59012e:2397
+(anonymous) @ vue-router.js?v=1f59012e:1683
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:659
+get value @ chunk-4EPKHDIW.js?v=1f59012e:1860
+useLink @ vue-router.js?v=1f59012e:1724
+setup @ vue-router.js?v=1f59012e:1771
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+setupStatefulComponent @ chunk-4EPKHDIW.js?v=1f59012e:10109
+setupComponent @ chunk-4EPKHDIW.js?v=1f59012e:10070
+mountComponent @ chunk-4EPKHDIW.js?v=1f59012e:7406
+processComponent @ chunk-4EPKHDIW.js?v=1f59012e:7372
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6886
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+mountElement @ chunk-4EPKHDIW.js?v=1f59012e:7043
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7008
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+componentUpdateFn @ chunk-4EPKHDIW.js?v=1f59012e:7518
+run @ chunk-4EPKHDIW.js?v=1f59012e:505
+setupRenderEffect @ chunk-4EPKHDIW.js?v=1f59012e:7646
+mountComponent @ chunk-4EPKHDIW.js?v=1f59012e:7420
+processComponent @ chunk-4EPKHDIW.js?v=1f59012e:7372
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6886
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+mountElement @ chunk-4EPKHDIW.js?v=1f59012e:7043
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7008
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+mountElement @ chunk-4EPKHDIW.js?v=1f59012e:7043
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7008
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+mountChildren @ chunk-4EPKHDIW.js?v=1f59012e:7120
+processFragment @ chunk-4EPKHDIW.js?v=1f59012e:7302
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6860
+patchBlockChildren @ chunk-4EPKHDIW.js?v=1f59012e:7242
+patchElement @ chunk-4EPKHDIW.js?v=1f59012e:7160
+processElement @ chunk-4EPKHDIW.js?v=1f59012e:7019
+patch @ chunk-4EPKHDIW.js?v=1f59012e:6874
+componentUpdateFn @ chunk-4EPKHDIW.js?v=1f59012e:7598
+run @ chunk-4EPKHDIW.js?v=1f59012e:505
+runIfDirty @ chunk-4EPKHDIW.js?v=1f59012e:543
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2503
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queueJob @ chunk-4EPKHDIW.js?v=1f59012e:2412
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:7640
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+obtenerMenu @ Sidebar.vue:636
+await in obtenerMenu
+(anonymous) @ Sidebar.vue:836
+(anonymous) @ chunk-4EPKHDIW.js?v=1f59012e:5000
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+hook.__weh.hook.__weh @ chunk-4EPKHDIW.js?v=1f59012e:4980
+flushPostFlushCbs @ chunk-4EPKHDIW.js?v=1f59012e:2480
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2522
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queuePostFlushCb @ chunk-4EPKHDIW.js?v=1f59012e:2431
+queueEffectWithSuspense @ chunk-4EPKHDIW.js?v=1f59012e:9524
+baseWatchOptions.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:8403
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:2041
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+finalizeNavigation @ vue-router.js?v=1f59012e:2677
+(anonymous) @ vue-router.js?v=1f59012e:2587
+Promise.then
+pushWithRedirect @ vue-router.js?v=1f59012e:2555
+push @ vue-router.js?v=1f59012e:2481
+install @ vue-router.js?v=1f59012e:2836
+use @ chunk-4EPKHDIW.js?v=1f59012e:6042
+initApp @ main.js:59
+await in initApp
+(anonymous) @ main.js:97Understand this warning
+Sidebar.vue:403 Datos personales actualizados: Proxy(Object) {dni: '32002822', nombre: 'LEONARDO PABLO', apellido: 'MANNANICE', sexo: 'M', fecha_nac: '1985-12-05T03:00:00.000Z', …}
+Sidebar.vue:396 Usuario actualizado: Proxy(Object) {nombreapellido: 'LEONARDO PABLO MANNANICE', dni: '32002822', nombre: 'LEONARDO PABLO', apellido: 'MANNANICE', sexo: 'M', …}
+Sidebar.vue:519 Menu item clicked: Datos Personales path: /perfil/datos-personales
+Sidebar.vue:535 Manejando ruta interna: /perfil/datos-personales
+Sidebar.vue:554 Ejecutando navegación para: /perfil/datos-personales
+Sidebar.vue:519 Menu item clicked: Biblioteca Virtual path: /biblioteca/biblioteca-virtual
+Sidebar.vue:535 Manejando ruta interna: /biblioteca/biblioteca-virtual
+Sidebar.vue:554 Ejecutando navegación para: /biblioteca/biblioteca-virtual
+index.js:816 🚦 Navegando de: /perfil/datos-personales a: /biblioteca/biblioteca-virtual
+index.js:822 🔐 Estado de autenticación: {isPublic: false, onlyWhenLoggedOut: false, requiresAuth: true, isAuthenticated: true}
+index.js:852 ✅ Navegación permitida
+index.js:129 📚 Intentando cargar Biblioteca Virtual...
+index.js:132 📦 Importando módulo Biblioteca...
+index.js:134 ✅ Módulo Biblioteca Virtual importado: {default: {…}, __esModule: true}
+Sidebar.vue:555 [Vue Router warn]: No match found for location with path "https://virtual.atlantida.edu.ar/login/index.php"
+overrideMethod @ hook.js:608
+warn @ vue-router.js?v=1f59012e:204
+resolve @ vue-router.js?v=1f59012e:2397
+(anonymous) @ vue-router.js?v=1f59012e:1683
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:659
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:648
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+runIfDirty @ chunk-4EPKHDIW.js?v=1f59012e:542
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2503
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queuePostFlushCb @ chunk-4EPKHDIW.js?v=1f59012e:2431
+queueEffectWithSuspense @ chunk-4EPKHDIW.js?v=1f59012e:9524
+baseWatchOptions.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:8403
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:2041
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+finalizeNavigation @ vue-router.js?v=1f59012e:2677
+(anonymous) @ vue-router.js?v=1f59012e:2587
+Promise.then
+pushWithRedirect @ vue-router.js?v=1f59012e:2555
+push @ vue-router.js?v=1f59012e:2481
+navigate @ vue-router.js?v=1f59012e:1709
+onMenuClick @ Sidebar.vue:555
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+emit @ chunk-4EPKHDIW.js?v=1f59012e:8590
+(anonymous) @ chunk-4EPKHDIW.js?v=1f59012e:10301
+onMenuClick @ MenuItemRecursive.vue:119
+(anonymous) @ MenuItemRecursive.vue:12
+(anonymous) @ chunk-4EPKHDIW.js?v=1f59012e:12304
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+invoker @ chunk-4EPKHDIW.js?v=1f59012e:11338Understand this warning
+Sidebar.vue:555 [Vue Router warn]: No match found for location with path "/extension/mis-cursos"
+overrideMethod @ hook.js:608
+warn @ vue-router.js?v=1f59012e:204
+resolve @ vue-router.js?v=1f59012e:2397
+(anonymous) @ vue-router.js?v=1f59012e:1683
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:659
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:648
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+runIfDirty @ chunk-4EPKHDIW.js?v=1f59012e:542
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2503
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queuePostFlushCb @ chunk-4EPKHDIW.js?v=1f59012e:2431
+queueEffectWithSuspense @ chunk-4EPKHDIW.js?v=1f59012e:9524
+baseWatchOptions.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:8403
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:2041
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+finalizeNavigation @ vue-router.js?v=1f59012e:2677
+(anonymous) @ vue-router.js?v=1f59012e:2587
+Promise.then
+pushWithRedirect @ vue-router.js?v=1f59012e:2555
+push @ vue-router.js?v=1f59012e:2481
+navigate @ vue-router.js?v=1f59012e:1709
+onMenuClick @ Sidebar.vue:555
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+emit @ chunk-4EPKHDIW.js?v=1f59012e:8590
+(anonymous) @ chunk-4EPKHDIW.js?v=1f59012e:10301
+onMenuClick @ MenuItemRecursive.vue:119
+(anonymous) @ MenuItemRecursive.vue:12
+(anonymous) @ chunk-4EPKHDIW.js?v=1f59012e:12304
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+invoker @ chunk-4EPKHDIW.js?v=1f59012e:11338Understand this warning
+Sidebar.vue:555 [Vue Router warn]: No match found for location with path "/extension/mis-certificados-ext"
+overrideMethod @ hook.js:608
+warn @ vue-router.js?v=1f59012e:204
+resolve @ vue-router.js?v=1f59012e:2397
+(anonymous) @ vue-router.js?v=1f59012e:1683
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:659
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:648
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+runIfDirty @ chunk-4EPKHDIW.js?v=1f59012e:542
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2503
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queuePostFlushCb @ chunk-4EPKHDIW.js?v=1f59012e:2431
+queueEffectWithSuspense @ chunk-4EPKHDIW.js?v=1f59012e:9524
+baseWatchOptions.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:8403
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:2041
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+finalizeNavigation @ vue-router.js?v=1f59012e:2677
+(anonymous) @ vue-router.js?v=1f59012e:2587
+Promise.then
+pushWithRedirect @ vue-router.js?v=1f59012e:2555
+push @ vue-router.js?v=1f59012e:2481
+navigate @ vue-router.js?v=1f59012e:1709
+onMenuClick @ Sidebar.vue:555
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+emit @ chunk-4EPKHDIW.js?v=1f59012e:8590
+(anonymous) @ chunk-4EPKHDIW.js?v=1f59012e:10301
+onMenuClick @ MenuItemRecursive.vue:119
+(anonymous) @ MenuItemRecursive.vue:12
+(anonymous) @ chunk-4EPKHDIW.js?v=1f59012e:12304
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+invoker @ chunk-4EPKHDIW.js?v=1f59012e:11338Understand this warning
+Sidebar.vue:555 [Vue Router warn]: No match found for location with path "/extension/mis-fojas"
+overrideMethod @ hook.js:608
+warn @ vue-router.js?v=1f59012e:204
+resolve @ vue-router.js?v=1f59012e:2397
+(anonymous) @ vue-router.js?v=1f59012e:1683
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:659
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:648
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+runIfDirty @ chunk-4EPKHDIW.js?v=1f59012e:542
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2503
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queuePostFlushCb @ chunk-4EPKHDIW.js?v=1f59012e:2431
+queueEffectWithSuspense @ chunk-4EPKHDIW.js?v=1f59012e:9524
+baseWatchOptions.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:8403
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:2041
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+finalizeNavigation @ vue-router.js?v=1f59012e:2677
+(anonymous) @ vue-router.js?v=1f59012e:2587
+Promise.then
+pushWithRedirect @ vue-router.js?v=1f59012e:2555
+push @ vue-router.js?v=1f59012e:2481
+navigate @ vue-router.js?v=1f59012e:1709
+onMenuClick @ Sidebar.vue:555
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+emit @ chunk-4EPKHDIW.js?v=1f59012e:8590
+(anonymous) @ chunk-4EPKHDIW.js?v=1f59012e:10301
+onMenuClick @ MenuItemRecursive.vue:119
+(anonymous) @ MenuItemRecursive.vue:12
+(anonymous) @ chunk-4EPKHDIW.js?v=1f59012e:12304
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+invoker @ chunk-4EPKHDIW.js?v=1f59012e:11338Understand this warning
+index.js:816 🚦 Navegando de: /biblioteca/biblioteca-virtual a: /
+index.js:822 🔐 Estado de autenticación: {isPublic: false, onlyWhenLoggedOut: false, requiresAuth: true, isAuthenticated: true}
+index.js:852 ✅ Navegación permitida
+hook.js:608 [Vue Router warn]: No match found for location with path "https://virtual.atlantida.edu.ar/login/index.php"
+overrideMethod @ hook.js:608
+warn @ vue-router.js?v=1f59012e:204
+resolve @ vue-router.js?v=1f59012e:2397
+(anonymous) @ vue-router.js?v=1f59012e:1683
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:659
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:648
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+runIfDirty @ chunk-4EPKHDIW.js?v=1f59012e:542
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2503
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queuePostFlushCb @ chunk-4EPKHDIW.js?v=1f59012e:2431
+queueEffectWithSuspense @ chunk-4EPKHDIW.js?v=1f59012e:9524
+baseWatchOptions.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:8403
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:2041
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+finalizeNavigation @ vue-router.js?v=1f59012e:2677
+(anonymous) @ vue-router.js?v=1f59012e:2587
+Promise.then
+pushWithRedirect @ vue-router.js?v=1f59012e:2555
+push @ vue-router.js?v=1f59012e:2481
+navigate @ vue-router.js?v=1f59012e:1709
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+invoker @ chunk-4EPKHDIW.js?v=1f59012e:11338Understand this warning
+hook.js:608 [Vue Router warn]: No match found for location with path "/extension/mis-cursos"
+overrideMethod @ hook.js:608
+warn @ vue-router.js?v=1f59012e:204
+resolve @ vue-router.js?v=1f59012e:2397
+(anonymous) @ vue-router.js?v=1f59012e:1683
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:659
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:648
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+runIfDirty @ chunk-4EPKHDIW.js?v=1f59012e:542
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2503
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queuePostFlushCb @ chunk-4EPKHDIW.js?v=1f59012e:2431
+queueEffectWithSuspense @ chunk-4EPKHDIW.js?v=1f59012e:9524
+baseWatchOptions.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:8403
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:2041
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+finalizeNavigation @ vue-router.js?v=1f59012e:2677
+(anonymous) @ vue-router.js?v=1f59012e:2587
+Promise.then
+pushWithRedirect @ vue-router.js?v=1f59012e:2555
+push @ vue-router.js?v=1f59012e:2481
+navigate @ vue-router.js?v=1f59012e:1709
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+invoker @ chunk-4EPKHDIW.js?v=1f59012e:11338Understand this warning
+hook.js:608 [Vue Router warn]: No match found for location with path "/extension/mis-certificados-ext"
+overrideMethod @ hook.js:608
+warn @ vue-router.js?v=1f59012e:204
+resolve @ vue-router.js?v=1f59012e:2397
+(anonymous) @ vue-router.js?v=1f59012e:1683
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:659
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+refreshComputed @ chunk-4EPKHDIW.js?v=1f59012e:648
+isDirty @ chunk-4EPKHDIW.js?v=1f59012e:630
+runIfDirty @ chunk-4EPKHDIW.js?v=1f59012e:542
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+flushJobs @ chunk-4EPKHDIW.js?v=1f59012e:2503
+Promise.then
+queueFlush @ chunk-4EPKHDIW.js?v=1f59012e:2417
+queuePostFlushCb @ chunk-4EPKHDIW.js?v=1f59012e:2431
+queueEffectWithSuspense @ chunk-4EPKHDIW.js?v=1f59012e:9524
+baseWatchOptions.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:8403
+effect2.scheduler @ chunk-4EPKHDIW.js?v=1f59012e:2041
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:533
+endBatch @ chunk-4EPKHDIW.js?v=1f59012e:591
+notify @ chunk-4EPKHDIW.js?v=1f59012e:853
+trigger @ chunk-4EPKHDIW.js?v=1f59012e:827
+set value @ chunk-4EPKHDIW.js?v=1f59012e:1705
+finalizeNavigation @ vue-router.js?v=1f59012e:2677
+(anonymous) @ vue-router.js?v=1f59012e:2587
+Promise.then
+pushWithRedirect @ vue-router.js?v=1f59012e:2555
+push @ vue-router.js?v=1f59012e:2481
+navigate @ vue-router.js?v=1f59012e:1709
+callWithErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2295
+callWithAsyncErrorHandling @ chunk-4EPKHDIW.js?v=1f59012e:2302
+invoker @ chunk-4EPKHDIW.js?v=1f59012e:11338Understand this warning
+hook.js:608 [Vue Router warn]: No match found for location with path "/extension/mis-fojas"
